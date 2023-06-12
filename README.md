@@ -10,6 +10,6 @@ Donations are important to support the ongoing development and maintenance of ou
 
 To find out how to donate our projects, please navigate here:
 
-[![Donate](https://raw.githubusercontent.com/libersoft-org/nemp-documentation/main/donate.png)](https://libersoft.org/donations)
+[![Donate](https://raw.githubusercontent.com/libersoft-org/documents/main/donate.png)](https://libersoft.org/donations)
 
 Thank you for being a part of our projects' success!
